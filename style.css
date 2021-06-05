@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.full-calc-body{
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+
+}
+
+.btn{
+    width: 50px;
+    height: 40px;
+    margin: 2px;
+    padding: 20px;
+    background-color: rgb(139, 132, 197);
+
+    
+}
+
+.{
+    font-weight: bolder;
+}
